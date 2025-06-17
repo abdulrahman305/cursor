@@ -93,7 +93,7 @@
         "@codemirror/state": "^6.2.0",
         "@codemirror/theme-one-dark": "^6.1.0",
         "@codemirror/view": "^6.7.1",
-        "@electron-forge/publisher-github": "^6.0.4",
+        "@electron-forge/publisher-github": "^7.6.0",
         "@electron/remote": "^2.0.9",
         "@fortawesome/fontawesome-pro": "^6.2.1",
         "@fortawesome/fontawesome-svg-core": "^6.2.1",
